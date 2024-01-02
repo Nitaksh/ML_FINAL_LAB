@@ -1,2 +1,2 @@
-# ML_FINAL_LAB
+# RythmicFusion
 Machine Learning Final Lab Hackathon
